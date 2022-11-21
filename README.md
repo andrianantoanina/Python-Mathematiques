@@ -1,2 +1,2 @@
 # PGCD-avec-l-algorithme-d-Euclide
-Script calculant le pgcd avec l'algorithme d'euclide
+Script calculating the pgcd with euclid's algorithm
