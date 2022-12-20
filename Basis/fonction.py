@@ -1,4 +1,8 @@
-def ma_fonction(arg1, arg2):
+def ma_fonction(argument1, argument2):
   # Code de la fonction
-  resultat = arg1 + arg2
+  resultat = argument1 + argument2
   return resultat
+
+# Appeler la fonction avec tous les arguments optionnels
+resultat = ma_fonction(10, 20, 30, 40)
+print(resultat)  # Affiche 100
