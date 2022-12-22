@@ -25,3 +25,12 @@ compte2.retirer_argent(500)
 
 print(compte1)
 print(compte2)
+
+#Ce programme définit une classe CompteBancaire avec trois méthodes :
+
+#__init__ : constructeur de la classe, qui initialise les attributs nom_titulaire et solde lorsqu'un nouvel objet de la classe est créé.
+#ajouter_argent : qui permet d'ajouter de l'argent au solde du compte.
+#retirer_argent : qui permet de retirer de l'argent du solde du compte.
+#Il y a également une méthode __str__ qui permet de personnaliser la façon dont l'objet est affiché lorsqu'on utilise la fonction print().
+
+#Le programme crée deux objets de la classe CompteBancaire, compte1 et compte2, et affiche leur état initial. Ensuite, il ajoute de l'argent au compte de Marie et retire de l'argent du compte de Jean, et affiche à nouveau l'état de chaque compte.
