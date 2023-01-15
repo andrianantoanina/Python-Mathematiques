@@ -1,4 +1,4 @@
-
+#calcul multiplication matrice 
 import numpy as np
 
 # Définir les matrices A et B
